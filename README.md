@@ -3,7 +3,7 @@ Iterated Prisoner's Dilemma solver created as part of the Computational Intellig
 -
 In the Iterated Prisoner's Dilemma (IPD) two rational players (agents, prisoners) are being simultaneously questioned by the police. Each of the players can either collaborate or defect, and for each action they receive a specified number of points.
 
-**The points are awarded as followed:**
+**The points are awarded as follows:**
 - if both players A and B cooperated, they receive 3 points each,
 - if player A defected and player B cooperated, player A receives 5 points and player B gets 0,
 - if player A cooperated and player B defected, player A receives 0 points and player B gets 5,
